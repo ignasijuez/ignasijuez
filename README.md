@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ignasijuez&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ignasijuez.reset&"  />
 </div>
 
 ###
