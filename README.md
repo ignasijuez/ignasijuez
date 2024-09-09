@@ -18,12 +18,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ignasijuez&"  />
-</div>
-
-###
-
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -32,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left"> Hi, I’m Ignasi – a Software Engineer from Barcelona specialized in IT with extensive knowledge of security best practices and compliance. I have over 4 years of IT education, including programming, networking, systems, security, and cloud. Currently, I’m working on my Bachelor's final project, focusing on cloud infrastructure and DevOps.
 
 ###
 
