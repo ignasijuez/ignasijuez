@@ -5,16 +5,17 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ignasijuez/" target="_blank">
+  <a href="https://www.linkedin.com/in/ignasijuez/" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://www.ignasisnetwork.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=internet-explorer&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo" />
+  <a href="https://www.ignasisnetwork.com" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=globe&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website globe logo" />
   </a>
-  <a href="https://www.x.com/ignasi_juez/" target="_blank">
+  <a href="https://www.x.com/ignasi_juez/" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo" />
   </a>
 </div>
+
 
 ###
 
