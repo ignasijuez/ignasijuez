@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ignasijuez/" target="_blank" style="text-decoration:none">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" style="border:none; margin:0; padding:0;" />
   </a>
   <a href="https://www.ignasisnetwork.com" target="_blank" style="text-decoration:none">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo" />
+    <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo" style="border:none; margin:0; padding:0;" />
   </a>
   <a href="https://www.x.com/ignasi_juez/" target="_blank" style="text-decoration:none">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo" />
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo" style="border:none; margin:0; padding:0;" />
   </a>
 </div>
 
