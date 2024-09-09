@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://www.ignasisnetwork.com" target="_blank" style="text-decoration:none">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=globe&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website globe logo" />
+    <img src="https://duckduckgo.com/?q=website+icon+white&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fvectorified.com%2Fimages%2Fwhite-website-icon-png-23.jpg" height="25" alt="website globe logo" />
   </a>
   <a href="https://www.x.com/ignasi_juez/" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo" />
