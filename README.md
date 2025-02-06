@@ -56,7 +56,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" style="vertical-align: middle;" />
   
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" alt="kubernetes logo" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" 
+     height="40" 
+     alt="kubernetes logo" 
+     style="transform: scale(1.25); display: inline-block;" />
   
 </div>
 
