@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/influxdb/influxdb-original.svg" 
      height="40" 
      alt="influxdb logo" 
-     style="filter: brightness(2);"/>
+     style="filter: invert(100%) brightness(200%);"/>
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" alt="bash logo" />
