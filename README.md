@@ -26,10 +26,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/influxdb/influxdb-original.svg" height="40" alt="influxdb logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/influxdb/influxdb-original.svg" 
+  <img src="https://influxdata.com/wp-content/uploads/influxdata-logo.png" 
      height="40" 
-     alt="influxdb logo" 
-     style="filter: grayscale(100%) brightness(200%);"/>
+     alt="InfluxDB white logo" />
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" alt="bash logo" />
