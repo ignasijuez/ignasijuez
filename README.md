@@ -57,11 +57,7 @@
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="kubernetes logo" />
-  <img width="12" />
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" 
-     height="50" 
-     alt="kubernetes logo" />
+
   
 </div>
 
