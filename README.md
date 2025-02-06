@@ -59,7 +59,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" 
      height="40" 
      alt="kubernetes logo" 
-     style="transform: scale(1.25); display: inline-block;" />
+     style="transform: scale(4.25); display: inline-block;" />
   
 </div>
 
