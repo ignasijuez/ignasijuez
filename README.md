@@ -55,6 +55,9 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" style="vertical-align: middle;" />
   <img width="12" />
+
+  <img src="./images/myWallpaper.png" height="40" alt="tekton logo" />
+  <img width="12" />
           
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="kubernetes logo" />
   <img width="12" />
@@ -65,6 +68,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="kubernetes logo" />
   <img width="12" />   
 
+  
   
 </div>
 
