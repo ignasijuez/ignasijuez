@@ -1,4 +1,3 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <div align="center">
   <img width="1000" height="325" src="./images/myWallpaper.png" />
 </div>
@@ -56,16 +55,15 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" style="vertical-align: middle;" />
   <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
-  <img width="12" />
           
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="kubernetes logo" />
   <img width="12" />
-  
-  <!-- Font-based Ansible icon -->
-  <i class="devicon-ansible-plain" style="font-size: 40px;"></i>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
   <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="kubernetes logo" />
+  <img width="12" />   
 
   
 </div>
