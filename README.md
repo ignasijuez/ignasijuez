@@ -57,6 +57,7 @@
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
+  <img width="12" />
           
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="kubernetes logo" />
 
