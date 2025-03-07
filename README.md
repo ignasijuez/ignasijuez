@@ -1,3 +1,4 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <div align="center">
   <img width="1000" height="325" src="./images/myWallpaper.png" />
 </div>
@@ -60,6 +61,11 @@
   <img width="12" />
           
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="kubernetes logo" />
+  <img width="12" />
+  
+  <!-- Font-based Ansible icon -->
+  <i class="devicon-ansible-plain" style="font-size: 40px;"></i>
+  <img width="12" />
 
   
 </div>
