@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left"> Hi, I’m Ignasi – a Software Engineer from Spain specialized in IT with extensive knowledge of security best practices and compliance. I have over 4 years of IT education, including programming, networking, systems, security, and cloud. Currently, I’m working on my Bachelor's final project, focusing on cloud infrastructure and DevOps.</p>
+<p align="left"> Hi, I’m Ignasi – a Software Engineer from Spain specialized in IT with extensive knowledge of security best practices and compliance. I have over 4 years of IT education, including programming, networking, systems, security, and cloud. Currently, I’m working as a DevOps Engineer. I’m always eager to expand my expertise and stay up to date with the latest advancements in cloud infrastructure and DevOps.</p>
 
 ###
 
